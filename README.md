@@ -4,16 +4,20 @@ Team members:
 Becky Bobba, Amro Elhag, Kelly Blumhagen
 
 ## Description:
-
+Job Search Criteria:
+-"Data Analyst"
+-"Austin, TX"
 
 ## Data Sources:
-Data scraped from from 2 job boards:
-1. indeed.com
-2. TBD (JB such as glassdoor, CB)
+Two data sets scraped from indeed.com:
+1. Job Posting Search Results
+-Job Title
+-Company
+-Location (zip code)
+-Job URL
 
-Col's:
-Company
-Job Title
-Location (zip code)...filtered to ATX only
-Salary range
-Job Description Text (if possible)
+2. Job Description
+-Job URL
+-Job Description Text
+
+## Assumptions

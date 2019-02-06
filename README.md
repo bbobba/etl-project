@@ -32,4 +32,4 @@ We cleanded the data during extraction. Processes included:
 * Which skills appear the most often in job descriptions (i.e. SQL, Python, etc)? 
 
 ## Challenges you overcame.
-* We wanted to scrape text for the entire job description. The first data set included some of the text, but only the first few lines of the JD. We were able to use the job URL to scrape the full text. 
+* We wanted to scrape text for the entire job description. The first data set (Job Posting Search Results) included some of the text for each JD, but only the first few lines. We used the job's links to then scrape the full text from each individual URL. 

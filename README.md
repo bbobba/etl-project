@@ -14,4 +14,3 @@ This project uses two data sets scraped from indeed.com. Each data set includes 
 2. Job Description
 * Job URL
 * Job Description Full Text
-

@@ -23,7 +23,8 @@ We cleanded the data during extraction. Processes included:
 * We made sure there was no missing data before extraction
 
 ## How you decided on database tech to store, and schema to store.
-* 
+* Given our dataset, we wanted to use an object oriented database, and therefore chose to use MySQL to store it.
+* We created a new schema, titled "jobs_db," to store it in MySQL.  
 
 ## Potential analysis to do on the newly formed dataset
 * Which companies have the most openings?
@@ -31,4 +32,4 @@ We cleanded the data during extraction. Processes included:
 * Which skills appear the most often in job descriptions (i.e. SQL, Python, etc)? 
 
 ## Challenges you overcame.
-* We wanted to scrape text for the entire job description. The first data set included some of the text, but only the first few lines of the JD. 
+* We wanted to scrape text for the entire job description. The first data set included some of the text, but only the first few lines of the JD. We were able to use the job URL to scrape the full text. 

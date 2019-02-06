@@ -18,7 +18,7 @@ This project uses two data sets scraped from indeed.com. Each data set includes 
 
 ## Decisions you made to do cleanup (transform) and join (transform)
 We cleanded the data during extraction. Processes included:
-* Reformat job description links to include the entire URL
+* Reformat job description links to include the entire URL and ensure they are identical in both data sets
 * Cleaned the job titles (originally extracted "/n" with the job title text)
 * We made sure there was no missing data before extraction
 

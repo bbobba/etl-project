@@ -26,7 +26,9 @@ We cleanded the data during extraction. Processes included:
 * 
 
 ## Potential analysis to do on the newly formed dataset
-* 
+* Which companies have the most openings?
+* Where are the the most job openings located in Austin?
+* Which skills appear the most often in job descriptions (i.e. SQL, Python, etc)? 
 
 ## Challenges you overcame.
 * We wanted to scrape text for the entire job description. The first data set included some of the text, but only the first few lines of the JD. 
